@@ -1,19 +1,12 @@
 {
-    "name": "helloapp",
-    "version": "1.0.0",
-    "description": "node app ",
-    "main": "part2.js",
-    "scripts": {
+  "name": "hw13",
+  "version": "1.0.0",
+  "description": "stock ticker app",
+  "main": "part2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node part2.js"
   },
-    "repository": {
-    "type": "git",
-    "url": ""
-  },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-    "url": ""
-  },
-    "homepage": ""
-  }
+  "author": "lucie",
+  "license": "ISC"
+}
