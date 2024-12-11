@@ -1,0 +1,19 @@
+{
+    "name": "helloapp",
+    "version": "1.0.0",
+    "description": "node app ",
+    "main": "part2.js",
+    "scripts": {
+    "start": "node part2.js"
+  },
+    "repository": {
+    "type": "git",
+    "url": ""
+  },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+    "url": ""
+  },
+    "homepage": ""
+  }
